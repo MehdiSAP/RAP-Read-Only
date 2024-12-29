@@ -1,0 +1,5 @@
+@EndUserText.label: 'Flight Service Definition'
+define service Zflight_mehdi_SV {
+  expose ZI_connection_mehdi;
+  expose ZI_Flight_mehdi;
+}
